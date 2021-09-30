@@ -26,10 +26,10 @@
    >Clone the repo, and submit a pull requests so your changes can be reviewed.
   * * *
    >## Tests
-   >![Example of Program Running](https://github.com/gresendi/techBlog/blob/main/assets/img/tech1.PNG)
-   >![Example of Program Running](https://github.com/gresendi/techBlog/blob/main/assets/img/tech2.PNG)
    >![Example of Program Running](https://github.com/gresendi/techBlog/blob/main/assets/img/tech3.PNG)
    >![Example of Program Running](https://github.com/gresendi/techBlog/blob/main/assets/img/tech4.PNG)
+   >![Example of Program Running](https://github.com/gresendi/techBlog/blob/main/assets/img/tech1.PNG)
+   >![Example of Program Running](https://github.com/gresendi/techBlog/blob/main/assets/img/tech2.PNG)
    
   * * *
  > ## Questions
