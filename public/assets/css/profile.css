@@ -22,3 +22,9 @@
 .bBack {
   background-color: #231010;
 }
+
+.shadow {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #D9EAD3;
+}

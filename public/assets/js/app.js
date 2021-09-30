@@ -26,13 +26,13 @@ axios.get('/api/posts', )
     console.log(posts)
     posts.forEach(({ id, title, body,date, u: { username } }) => {
       const postElem = document.createElement('li')
-      postElem.className = 'd-flex p-0 justify-content-between gBack border border-3 border-dark mb-2 listItem'
+      postElem.className = 'd-flex mb-5 p-0 justify-content-between gBack border border-3 border-dark mb-2 listItem'
       postElem.innerHTML = `
-        <div class="col-12 gback ">
+        <div class="col-12 gback  ">
           <div class="bBack text-white d-flex justify-content-between  fw-bold">${title}<span class=" float-right badge  fw-bold rounded-pill infoPill">Posted by ${username} on ${date}</span></div>
           <div class = "container  mx-2" >${body}</div>
           <div class ="bBack text-white comment" data-id="${id}">Comment
-          <div id= "${id}" class = "gBack text-dark" >
+          <div id= "${id}" class = "gBack text-dark " >
           
           </div>
         </div>
