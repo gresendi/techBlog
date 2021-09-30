@@ -15,7 +15,7 @@
   * * *
    >## Installation
    >Visit the link provided
-   >[]()
+   >[](https://fast-crag-01222.herokuapp.com/)
   * * *
    >## Usage
    >Used to post blogs
