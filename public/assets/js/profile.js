@@ -10,7 +10,7 @@ document.getElementById('goProfile').addEventListener('click', () => {
 
 document.getElementById('logOut').addEventListener('click', () => {
   localStorage.removeItem('token')
-  window.location = '/auth.html'
+  window.location = '/login.html'
 })
 
 document.addEventListener('click', event => {
@@ -74,3 +74,6 @@ document.getElementById('createPost').addEventListener('click', event => {
     })
     .catch(err => console.error(err))
 })
+
+
+

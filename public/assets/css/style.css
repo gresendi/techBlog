@@ -10,3 +10,11 @@
   border-top-left-radius: inherit;
   border-top-right-radius: inherit;
 }
+
+.gBack {
+  background-color: #D9EAD3;
+}
+
+.bBack {
+  background-color: #231010;
+}
